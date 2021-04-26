@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @vemavarapu-daniel
-- 👀 I’m interested in data science 
-- 🌱 I’m currently learning ml
+- 👀 I’m interested in data science, ml and ethical hacking
+- 🌱 I’m currently learning ml and ethical hacking
 - 💞️ I’m looking to collaborate on ml and ds
-- 📫 How to reach me through Instagram @daniel.vemavarapu
+- 📫 reach me through Instagram @daniel.vemavarapu
 
 <!---
 vemavarapu-daniel/vemavarapu-daniel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
