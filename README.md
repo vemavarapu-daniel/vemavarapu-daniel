@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ml and ethical hacking
 - 💞️ I’m looking to collaborate on ml and ds
 - 📫 reach me through Instagram @daniel.vemavarapu
+- visit my portfolio danielvemavarapu.me
 
 <!---
 vemavarapu-daniel/vemavarapu-daniel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
